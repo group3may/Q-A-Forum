@@ -1,7 +1,5 @@
 import React from 'react'
 import "./MainPage.css"
-// import VisibilityOffIcon from '@mui/icons-material/VisibilityOff';
-// import VisibilityOffIcon from '@mui/icons-material/VisibilityOff';
 import VisibilityOffIcon from '@mui/icons-material/VisibilityOff';
 
 function MainPage() {
