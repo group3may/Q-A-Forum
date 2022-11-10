@@ -1,8 +1,8 @@
 import React from 'react'
-import "./MainPage.css"
+import "./LandingPage.css"
 import VisibilityOffIcon from '@mui/icons-material/VisibilityOff';
 
-function MainPage() {
+function LandingPage() {
     return (
 
         <div className="section-wrapper">
@@ -70,4 +70,4 @@ function MainPage() {
     )
 }
 
-export default MainPage
+export default LandingPage
