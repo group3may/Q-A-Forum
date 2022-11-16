@@ -1,0 +1,58 @@
+.askQuestion{
+    /* width: 100vw; */
+    /* height: 90vh; */
+    /* background-color: white; */
+} 
+.ulContainer  {
+    justify-content: center;
+    display: flex; 
+    margin-bottom: 50px;
+
+} 
+.steps {
+    padding-top: 50px;
+    text-align: center;
+}
+.askQuestion h2 {
+    font-size: 25px; 
+    text-align: center;
+}
+
+.askQuestion p {
+    font-size: 15px; 
+    text-align: center;
+}
+.title {
+    margin-bottom: 10px;
+}
+.description {
+    margin-bottom: 10px;
+    height: 200px;
+}
+.title, .description {
+    text-align: left;
+    font-size: 20px;
+    color: #656565;
+    border-radius: 10px;
+    width: 100%;
+    
+} 
+.title, .description:focus {
+    outline: none;
+}
+.askQuestion button {
+    background:#516cf0;
+    color: white;
+    font-size: 20px;
+    border: 0; 
+    border-radius: 5px;
+    padding: 10px 30px; 
+    cursor: pointer;   
+} 
+.formContainer {
+    width: 70vw; 
+    margin: 0 auto; 
+    padding: 55px;
+    border-radius: 20px;
+    background-color: white;
+}
